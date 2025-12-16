@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoccerCardMongo", "SoccerCardMongo\SoccerCardMongo.csproj", "{6B5948E7-0587-486C-9C88-D9B6D8396932}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B5948E7-0587-486C-9C88-D9B6D8396932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B5948E7-0587-486C-9C88-D9B6D8396932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B5948E7-0587-486C-9C88-D9B6D8396932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B5948E7-0587-486C-9C88-D9B6D8396932}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DA62924-0C02-42D1-A80A-ACD6BB5DA405}
+	EndGlobalSection
+EndGlobal
