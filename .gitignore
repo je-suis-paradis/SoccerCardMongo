@@ -9,7 +9,35 @@
 *.user
 *.userosscache
 *.sln.docstates
+# Git Ignore
 
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+*.dll
+*.exe
+
+# Dependencies
+packages/
+.nuget/
+
+# Config (Secrets)
+appsettings.json
+appsettings.*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
+*.tmp
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
